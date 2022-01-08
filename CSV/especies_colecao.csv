@@ -1,105 +1,105 @@
-nome_comum,id_setor,especie,genero,epiteto,familia,ordem,classe,origem,status_conservação
-Gavião-real,A07,Harpia harpyja,Harpia,harpyja,Accipitridae,Accipitriformes,Aves,nativa,VU
-Pé-vermelho,A04,Amazonetta brasiliensis,Amazonetta,brasiliensis,Anatidae,Anseriformes,Aves,nativa,LC
-Marreca-toicinho,A09,Anas bahamensis,Anas,bahamensis,Anatidae,Anseriformes,Aves,nativa,LC
-Irerê,A04,Dendrocygna viduata,Dendrocygna,viduata,Anatidae,Anseriformes,Aves,nativa,LC
-Tachã,A04,Chauna torquata,Chauna,torquata,Anhimidae,Anseriformes,Aves,nativa,LC
-Beija-flor-de-banda-branca,A10,Amazilia versicolor,Amazilia,versicolor,Trochilidae,Apodiformes,Aves,nativa,LC
-Beija-flor-preto,A10,Florisuga fusca,Florisuga,fusca,Trochilidae,Apodiformes,Aves,nativa,LC
-Beija-flor-de-fronte-violeta,A10,Thalurania glaucopis,Thalurania,glaucopis,Trochilidae,Apodiformes,Aves,nativa,LC
-Seriema,A04,Cariama cristata,Cariama,cristata,Cariamidae,Cariamiformes,Aves,nativa,LC
-Casuar,A11,Casuarius casuarius,Casuarius,casuarius,Casuariidae,Casuariiformes,Aves,nativa,LC
-Urubu-rei,A07,Sarcoramphus papa,Sarcoramphus,papa,Cathartidae,Cathartiformes,Aves,nativa,LC
-Quero-quero,A01,Vanellus chilensis lampronotus,Vanellus,chilensis lampronotus,Charadriidae,Charadriiformes,Aves,nativa,LC
-Pariri,A02,Geotrygon montana,Geotrygon,montana,Columbidae,Columbiformes,Aves,nativa,LC
-Pomba-asa-branca,A01,Patagioenas picazuro picazuro,Patagioenas,picazuro picazuro,Columbidae,Columbiformes,Aves,nativa,LC
-Pomba-de-bando,A02,Zenaida auriculata,Zenaida,auriculata,Columbidae,Columbiformes,Aves,nativa,LC
-Jacutinga,A02,Aburria jacutinga,Aburria,jacutinga,Cracidae,Galliformes,Aves,nativa,EN
-Mutum-do-sudeste,A03,Crax blumenbachii,Crax,blumenbachii,Cracidae,Galliformes,Aves,nativa,CR
-Mutum-de-penacho,A02,Crax fasciolata,Crax,fasciolata,Cracidae,Galliformes,Aves,nativa,VU
-Mutum-de-alagoas,A03,Pauxi mitu,Pauxi,mitu,Cracidae,Galliformes,Aves,nativa,EW
-Jacuaçu,A02,Penelope obscura,Penelope,obscura,Cracidae,Galliformes,Aves,nativa,LC
-Uru,A02,Odontophorus capueira capueira,Odontophorus,capueira capueira,Odontophoridae,Galliformes,Aves,nativa,CR
-Grou-demoiselle,A01,Anthropoides virgo,Anthropoides,virgo,Gruidae,Gruiformes,Aves,exotica,LC
-Saracura-do-mato,A02,Aramides saracura,Aramides,saracura,Rallidae,Gruiformes,Aves,nativa,LC
-Frango-d'água-azul,A01,Porphyrio martinicus,Porphyrio,martinicus,Rallidae,Gruiformes,Aves,nativa,LC
-Sanhaçu-de-fogo,A02,Piranga flava,Piranga,flava,Cardinalidae,Passeriformes,Aves,nativa,LC
-Gralha-azul,A04,Cyanocorax caeruleus,Cyanocorax,caeruleus,Corvidae,Passeriformes,Aves,nativa,NT
-Gralha-picaça,A03,Cyanocorax chrysops,Cyanocorax,chrysops,Corvidae,Passeriformes,Aves,nativa,LC
-Gralha-do-campo,A01,Cyanocorax cristatellus,Cyanocorax,cristatellus,Corvidae,Passeriformes,Aves,nativa,LC
-Gralha-cancã,A04,Cyanocorax cyanopogon,Cyanocorax,cyanopogon,Corvidae,Passeriformes,Aves,nativa,LC
-Araponga,A02,Procnias nudicollis,Procnias,nudicollis,Cotingidae,Passeriformes,Aves,nativa,VU
-Pavó,A01,Pyroderus scutatus scutatus,Pyroderus,scutatus scutatus,Cotingidae,Passeriformes,Aves,nativa,LC
-Gaturamo-verdadeiro ,A02,Euphonia violacea,Euphonia,violacea,Fringillidae,Passeriformes,Aves,nativa,LC
-Pintassilgo,A02,Spinus magellanicus,Spinus,magellanicus,Fringillidae,Passeriformes,Aves,nativa,LC
-Graúna,A02,Gnorimopsar chopi,Gnorimopsar,chopi,Icteridae,Passeriformes,Aves,nativa,LC
-Encontro,A02,Icterus pyrrhopterus pyrrhopterus,Icterus,pyrrhopterus pyrrhopterus,Icteridae,Passeriformes,Aves,nativa,LC
-Iraúna-grande,A02,Molothrus oryzivorus oryzivorus,Molothrus,oryzivorus oryzivorus,Icteridae,Passeriformes,Aves,nativa,LC
-Iraúna-de-bico-branco,A02,Procacicus solitarius,Procacicus,solitarius,Icteridae,Passeriformes,Aves,nativa,LC
-Sabiá-do-campo,A02,Mimus saturninus,Mimus,saturninus,Mimidae,Passeriformes,Aves,nativa,LC
-Tico-tico,A02,Zonotrichia capensis,Zonotrichia,capensis,Passerellidae,Passeriformes,Aves,nativa,LC
-Tico-tico-rei-cinza,A02,Coryphospingus pileatus,Coryphospingus,pileatus,Thraupidae,Passeriformes,Aves,nativa,LC
-Cardeal-de-topete-vermelho,A02,Paroaria coronata,Paroaria,coronata,Thraupidae,Passeriformes,Aves,nativa,LC
-Cardeal-do-nordeste,A02,Paroaria dominicana,Paroaria,dominicana,Thraupidae,Passeriformes,Aves,nativa,LC
-Sanhaçu-papa-laranja,A02,Pipraeidea bonariensis,Pipraeidea,bonariensis,Thraupidae,Passeriformes,Aves,nativa,LC
-Canário-da-terra-verdadeiro,A02,Sicalis flaveola,Sicalis,flaveola,Thraupidae,Passeriformes,Aves,nativa,LC
-Curió,A02,Sporophila angolensis,Sporophila,angolensis,Thraupidae,Passeriformes,Aves,nativa,LC
-Coleirinho,A02,Sporophila caerulescens,Sporophila,caerulescens,Thraupidae,Passeriformes,Aves,nativa,LC
-Tiê-preto,A02,Tachyphonus coronatus,Tachyphonus,coronatus,Thraupidae,Passeriformes,Aves,nativa,LC
-Sanhaçu-cinzento,A02,Tangara sayaca,Tangara,sayaca,Thraupidae,Passeriformes,Aves,nativa,LC
-Sabiá-barranco,A02,Turdus leucomelas,Turdus,leucomelas,Turdidae,Passeriformes,Aves,nativa,LC
-Bem-te-vi,A02,Pitangus sulphuratus,Pitangus,sulphuratus,Tyrannidae,Passeriformes,Aves,nativa,LC
-Garça-branca,A04,Ardea alba,Ardea,alba,Ardeidae,Pelecaniformes,Aves,nativa,LC
-Garça-vaqueira,A01,Bubulcus ibis,Bubulcus,ibis,Ardeidae,Pelecaniformes,Aves,nativa,LC
-Arapapá,A04,Cochlearius cochlearius,Cochlearius,cochlearius,Ardeidae,Pelecaniformes,Aves,nativa,LC
-Savacu,A04,Nycticorax nycticorax,Nycticorax,nycticorax,Ardeidae,Pelecaniformes,Aves,nativa,LC
-Socó-boi,A04,Tigrisoma lineatum,Tigrisoma,lineatum,Ardeidae,Pelecaniformes,Aves,nativa,LC
-Guará,A04,Eudocimus ruber,Eudocimus,ruber,Threskiornithidae,Pelecaniformes,Aves,nativa,LC
-Colhereiro,A04,Platalea ajaja,Platalea,ajaja,Threskiornithidae,Pelecaniformes,Aves,nativa,LC
-Curicaca,A01,Theristicus caudatus hypeorior,Theristicus,caudatus hypeorior,Threskiornithidae,Pelecaniformes,Aves,nativa,LC
-Flamingo-chileno,A01,Phoenicopterus chilensis,Phoenicopterus,chilensis,Phoenicopteridae,Phoenicopteriformes,Aves,exotico,NT
-Flamingo-africano,A01,Phoenicopterus roseus,Phoenicopterus,roseus,Phoenicopteridae,Phoenicopteriformes,Aves,exotico,LC
-Pica-pau-do-campo,A02,Colaptes campestris,Colaptes,campestris,Picidae,Piciformes,Aves,nativa,LC
-Araçari-castanho,A04,Pteroglossus castanotis australis,Pteroglossus,castanotis australis,Ramphastidae,Piciformes,Aves,nativa,LC
-Tucano-de-bico-verde,A04,Ramphastos dicolorus,Ramphastos,dicolorus,Ramphastidae,Piciformes,Aves,nativa,LC
-Tucano-toco,A04,Ramphastos toco albogularis,Ramphastos,toco albogularis,Ramphastidae,Piciformes,Aves,nativa,LC
-Papagaio-verdadeiro,A08,Amazona aestiva,Amazona,aestiva,Psittacidae,Psittaciformes,Aves,nativa,LC
-Papagaio-do-mangue,A09,Amazona amazonica,Amazona,amazonica,Psittacidae,Psittaciformes,Aves,nativa,LC
-Papagaio-de-cara-roxa,A04,Amazona brasiliensis,Amazona,brasiliensis,Psittacidae,Psittaciformes,Aves,nativa,VU
-Papagaio-moleiro,A09,Amazona farinosa,Amazona,farinosa,Psittacidae,Psittaciformes,Aves,nativa,NT
-Papagaio-charão,A08,Amazona pretrei,Amazona,pretrei,Psittacidae,Psittaciformes,Aves,nativa,VU
-Chauá,A08,Amazona rhodocorytha,Amazona,rhodocorytha,Psittacidae,Psittaciformes,Aves,nativa,VU
-Papagaio-de-peito-roxo,A08,Amazona vinacea,Amazona,vinacea,Psittacidae,Psittaciformes,Aves,nativa,VU
-Arara-azul,A09,Anodorhynchus hyacinthinus,Anodorhynchus,hyacinthinus,Psittacidae,Psittaciformes,Aves,nativa,VU
-Arara-canindé,A09,Ara ararauna,Ara,ararauna,Psittacidae,Psittaciformes,Aves,nativa,LC
-Arara-vermelha,A09,Ara chloropterus,Ara,chloropterus,Psittacidae,Psittaciformes,Aves,nativa,LC
-Arara-macao,A09,Ara macao macao,Ara,macao macao,Psittacidae,Psittaciformes,Aves,nativa,LC
-Maracanã-guaçu,A08,Ara severus,Ara,severus,Psittacidae,Psittaciformes,Aves,nativa,LC
-Príncipe-negro,A08,Aratinga nenday,Aratinga,nenday,Psittacidae,Psittaciformes,Aves,nativa,LC
-Anacã,A01,Deroptyus accipitrinus,Deroptyus,accipitrinus,Psittacidae,Psittaciformes,Aves,nativa,LC
-Maracanã-pequena,A08,Diopsittaca nobilis,Diopsittaca,nobilis,Psittacidae,Psittaciformes,Aves,nativa,LC
-Periquito-rei,A08,Eupsittula aurea,Eupsittula,aurea,Psittacidae,Psittaciformes,Aves,nativa,LC
-Caturrita,A08,Myiopsitta monachus,Myiopsitta,monachus,Psittacidae,Psittaciformes,Aves,nativa,LC
-Maitaca-verde,A08,Pionus maximiliani,Pionus,maximiliani,Psittacidae,Psittaciformes,Aves,nativa,LC
-Maitaca-de-cabeça-azul,A01,Pionus menstruus menstruus,Pionus,menstruus menstruus,Psittacidae,Psittaciformes,Aves,nativa,LC
-Maracanã-verdadeira,A08,Primolius maracana,Primolius,maracana,Psittacidae,Psittaciformes,Aves,nativa,NT
-Periquitão-maracanã,A08,Psittacara leucophthalmus,Psittacara,leucophthalmus,Psittacidae,Psittaciformes,Aves,nativa,LC
-Papagaio-do-congo,A11,Psittacus erithacus,Psittacus,erithacus,Psittacidae,Psittaciformes,Aves,exótica,EN
-Tiriba-de-testa-vermelha,A08,Pyrrhura frontalis,Pyrrhura,frontalis,Psittacidae,Psittaciformes,Aves,nativa,LC
-Periquito-cara-suja,A08,Pyrrhura griseipectus,Pyrrhura,griseipectus,Psittacidae,Psittaciformes,Aves,nativa,EN
-Coruja-orelhuda,A11,Asio clamator,Asio,clamator,Strigidae,Strigiformes,Aves,nativa,LC
-Coruja-buraqueira,A01,Athene cunicularia,Athene,cunicularia,Strigidae,Strigiformes,Aves,nativa,LC
-Corujinha-do-mato,A01,Megascops choliba,Megascops,choliba,Strigidae,Strigiformes,Aves,nativa,LC
-Murucututu,A11,Pulsatrix perspicillata,Pulsatrix,perspicillata,Strigidae,Strigiformes,Aves,nativa,VU
-Suindara,A11,Tyto furcata,Tyto,furcata,Tytonidae,Strigiformes,Aves,nativa,LC
-Inhambuguaçu,A02,Crypturellus obsoletus,Crypturellus,obsoletus,Tinamidae,Tinamiformes,Aves,nativa,LC
-Perdiz,A02,Rhynchotus rufescens,Rhynchotus,rufescens,Tinamidae,Tinamiformes,Aves,nativa,LC
-Macuco,A02,Tinamus solitarius,Tinamus,solitarius,Tinamidae,Tinamiformes,Aves,nativa,NT
-Jacaré-do-papo-amarelo,A05,Caiman latirostris,Caiman,latirostris,Alligatoridae,Crocodylia,Reptilia,nativa,LC
-Jiboia,A05,Boa constrictor,Boa,constrictor,Boidae,Squamata,Reptilia,nativa,LC
-Sucuri-verde,A05,Eunectes murinus,Eunectes,murinus,Boidae,Squamata,Reptilia,nativa,LC
-Iguana,A05,Iguana iguana,Iguana,iguana,Iguanidae,Squamata,Reptilia,nativa,LC
-Tigre-d'água,A05,Trachemys dorbigni,Trachemys,dorbigni,Emydidae,Testudinata,Reptilia,nativa,LC
-Jabuti-piranga,A05,Chelonoidis carbonarius,Chelonoidis,carbonarius,Testudinidae,Testudinata,Reptilia,nativa,LC
-Jabuti-chileno,A02,Chelonoidis chilensis,Chelonoidis,chilensis,Testudinidae,Testudinata,Reptilia,nativa,LC
-Jabuti-tinga,A02,Chelonoidis denticulatus,Chelonoidis,denticulatus,Testudinidae,Testudinata,Reptilia,nativa,LC
+nome_comum,id_setor,especie,genero,familia,ordem,classe,origem,status_conservação
+Gavião-real,A07,Harpia harpyja,Harpia,Accipitridae,Accipitriformes,Aves,nativa,VU
+Pé-vermelho,A04,Amazonetta brasiliensis,Amazonetta,Anatidae,Anseriformes,Aves,nativa,LC
+Marreca-toicinho,A09,Anas bahamensis,Anas,Anatidae,Anseriformes,Aves,nativa,LC
+Irerê,A04,Dendrocygna viduata,Dendrocygna,Anatidae,Anseriformes,Aves,nativa,LC
+Tachã,A04,Chauna torquata,Chauna,Anhimidae,Anseriformes,Aves,nativa,LC
+Beija-flor-de-banda-branca,A10,Amazilia versicolor,Amazilia,Trochilidae,Apodiformes,Aves,nativa,LC
+Beija-flor-preto,A10,Florisuga fusca,Florisuga,Trochilidae,Apodiformes,Aves,nativa,LC
+Beija-flor-de-fronte-violeta,A10,Thalurania glaucopis,Thalurania,Trochilidae,Apodiformes,Aves,nativa,LC
+Seriema,A04,Cariama cristata,Cariama,Cariamidae,Cariamiformes,Aves,nativa,LC
+Casuar,A11,Casuarius casuarius,Casuarius,Casuariidae,Casuariiformes,Aves,nativa,LC
+Urubu-rei,A07,Sarcoramphus papa,Sarcoramphus,Cathartidae,Cathartiformes,Aves,nativa,LC
+Quero-quero,A01,Vanellus chilensis lampronotus,Vanellus,Charadriidae,Charadriiformes,Aves,nativa,LC
+Pariri,A02,Geotrygon montana,Geotrygon,Columbidae,Columbiformes,Aves,nativa,LC
+Pomba-asa-branca,A01,Patagioenas picazuro picazuro,Patagioenas,Columbidae,Columbiformes,Aves,nativa,LC
+Pomba-de-bando,A02,Zenaida auriculata,Zenaida,Columbidae,Columbiformes,Aves,nativa,LC
+Jacutinga,A02,Aburria jacutinga,Aburria,Cracidae,Galliformes,Aves,nativa,EN
+Mutum-do-sudeste,A03,Crax blumenbachii,Crax,Cracidae,Galliformes,Aves,nativa,CR
+Mutum-de-penacho,A02,Crax fasciolata,Crax,Cracidae,Galliformes,Aves,nativa,VU
+Mutum-de-alagoas,A03,Pauxi mitu,Pauxi,Cracidae,Galliformes,Aves,nativa,EW
+Jacuaçu,A02,Penelope obscura,Penelope,Cracidae,Galliformes,Aves,nativa,LC
+Uru,A02,Odontophorus capueira capueira,Odontophorus,Odontophoridae,Galliformes,Aves,nativa,CR
+Grou-demoiselle,A01,Anthropoides virgo,Anthropoides,Gruidae,Gruiformes,Aves,exotica,LC
+Saracura-do-mato,A02,Aramides saracura,Aramides,Rallidae,Gruiformes,Aves,nativa,LC
+Frango-d'água-azul,A01,Porphyrio martinicus,Porphyrio,Rallidae,Gruiformes,Aves,nativa,LC
+Sanhaçu-de-fogo,A02,Piranga flava,Piranga,Cardinalidae,Passeriformes,Aves,nativa,LC
+Gralha-azul,A04,Cyanocorax caeruleus,Cyanocorax,Corvidae,Passeriformes,Aves,nativa,NT
+Gralha-picaça,A03,Cyanocorax chrysops,Cyanocorax,Corvidae,Passeriformes,Aves,nativa,LC
+Gralha-do-campo,A01,Cyanocorax cristatellus,Cyanocorax,Corvidae,Passeriformes,Aves,nativa,LC
+Gralha-cancã,A04,Cyanocorax cyanopogon,Cyanocorax,Corvidae,Passeriformes,Aves,nativa,LC
+Araponga,A02,Procnias nudicollis,Procnias,Cotingidae,Passeriformes,Aves,nativa,VU
+Pavó,A01,Pyroderus scutatus scutatus,Pyroderus,Cotingidae,Passeriformes,Aves,nativa,LC
+Gaturamo-verdadeiro ,A02,Euphonia violacea,Euphonia,Fringillidae,Passeriformes,Aves,nativa,LC
+Pintassilgo,A02,Spinus magellanicus,Spinus,Fringillidae,Passeriformes,Aves,nativa,LC
+Graúna,A02,Gnorimopsar chopi,Gnorimopsar,Icteridae,Passeriformes,Aves,nativa,LC
+Encontro,A02,Icterus pyrrhopterus pyrrhopterus,Icterus,Icteridae,Passeriformes,Aves,nativa,LC
+Iraúna-grande,A02,Molothrus oryzivorus oryzivorus,Molothrus,Icteridae,Passeriformes,Aves,nativa,LC
+Iraúna-de-bico-branco,A02,Procacicus solitarius,Procacicus,Icteridae,Passeriformes,Aves,nativa,LC
+Sabiá-do-campo,A02,Mimus saturninus,Mimus,Mimidae,Passeriformes,Aves,nativa,LC
+Tico-tico,A02,Zonotrichia capensis,Zonotrichia,Passerellidae,Passeriformes,Aves,nativa,LC
+Tico-tico-rei-cinza,A02,Coryphospingus pileatus,Coryphospingus,Thraupidae,Passeriformes,Aves,nativa,LC
+Cardeal-de-topete-vermelho,A02,Paroaria coronata,Paroaria,Thraupidae,Passeriformes,Aves,nativa,LC
+Cardeal-do-nordeste,A02,Paroaria dominicana,Paroaria,Thraupidae,Passeriformes,Aves,nativa,LC
+Sanhaçu-papa-laranja,A02,Pipraeidea bonariensis,Pipraeidea,Thraupidae,Passeriformes,Aves,nativa,LC
+Canário-da-terra-verdadeiro,A02,Sicalis flaveola,Sicalis,Thraupidae,Passeriformes,Aves,nativa,LC
+Curió,A02,Sporophila angolensis,Sporophila,Thraupidae,Passeriformes,Aves,nativa,LC
+Coleirinho,A02,Sporophila caerulescens,Sporophila,Thraupidae,Passeriformes,Aves,nativa,LC
+Tiê-preto,A02,Tachyphonus coronatus,Tachyphonus,Thraupidae,Passeriformes,Aves,nativa,LC
+Sanhaçu-cinzento,A02,Tangara sayaca,Tangara,Thraupidae,Passeriformes,Aves,nativa,LC
+Sabiá-barranco,A02,Turdus leucomelas,Turdus,Turdidae,Passeriformes,Aves,nativa,LC
+Bem-te-vi,A02,Pitangus sulphuratus,Pitangus,Tyrannidae,Passeriformes,Aves,nativa,LC
+Garça-branca,A04,Ardea alba,Ardea,Ardeidae,Pelecaniformes,Aves,nativa,LC
+Garça-vaqueira,A01,Bubulcus ibis,Bubulcus,Ardeidae,Pelecaniformes,Aves,nativa,LC
+Arapapá,A04,Cochlearius cochlearius,Cochlearius,Ardeidae,Pelecaniformes,Aves,nativa,LC
+Savacu,A04,Nycticorax nycticorax,Nycticorax,Ardeidae,Pelecaniformes,Aves,nativa,LC
+Socó-boi,A04,Tigrisoma lineatum,Tigrisoma,Ardeidae,Pelecaniformes,Aves,nativa,LC
+Guará,A04,Eudocimus ruber,Eudocimus,Threskiornithidae,Pelecaniformes,Aves,nativa,LC
+Colhereiro,A04,Platalea ajaja,Platalea,Threskiornithidae,Pelecaniformes,Aves,nativa,LC
+Curicaca,A01,Theristicus caudatus hypeorior,Theristicus,Threskiornithidae,Pelecaniformes,Aves,nativa,LC
+Flamingo-chileno,A01,Phoenicopterus chilensis,Phoenicopterus,Phoenicopteridae,Phoenicopteriformes,Aves,exotico,NT
+Flamingo-africano,A01,Phoenicopterus roseus,Phoenicopterus,Phoenicopteridae,Phoenicopteriformes,Aves,exotico,LC
+Pica-pau-do-campo,A02,Colaptes campestris,Colaptes,Picidae,Piciformes,Aves,nativa,LC
+Araçari-castanho,A04,Pteroglossus castanotis australis,Pteroglossus,Ramphastidae,Piciformes,Aves,nativa,LC
+Tucano-de-bico-verde,A04,Ramphastos dicolorus,Ramphastos,Ramphastidae,Piciformes,Aves,nativa,LC
+Tucano-toco,A04,Ramphastos toco albogularis,Ramphastos,Ramphastidae,Piciformes,Aves,nativa,LC
+Papagaio-verdadeiro,A08,Amazona aestiva,Amazona,Psittacidae,Psittaciformes,Aves,nativa,LC
+Papagaio-do-mangue,A09,Amazona amazonica,Amazona,Psittacidae,Psittaciformes,Aves,nativa,LC
+Papagaio-de-cara-roxa,A04,Amazona brasiliensis,Amazona,Psittacidae,Psittaciformes,Aves,nativa,VU
+Papagaio-moleiro,A09,Amazona farinosa,Amazona,Psittacidae,Psittaciformes,Aves,nativa,NT
+Papagaio-charão,A08,Amazona pretrei,Amazona,Psittacidae,Psittaciformes,Aves,nativa,VU
+Chauá,A08,Amazona rhodocorytha,Amazona,Psittacidae,Psittaciformes,Aves,nativa,VU
+Papagaio-de-peito-roxo,A08,Amazona vinacea,Amazona,Psittacidae,Psittaciformes,Aves,nativa,VU
+Arara-azul,A09,Anodorhynchus hyacinthinus,Anodorhynchus,Psittacidae,Psittaciformes,Aves,nativa,VU
+Arara-canindé,A09,Ara ararauna,Ara,Psittacidae,Psittaciformes,Aves,nativa,LC
+Arara-vermelha,A09,Ara chloropterus,Ara,Psittacidae,Psittaciformes,Aves,nativa,LC
+Arara-macao,A09,Ara macao macao,Ara,Psittacidae,Psittaciformes,Aves,nativa,LC
+Maracanã-guaçu,A08,Ara severus,Ara,Psittacidae,Psittaciformes,Aves,nativa,LC
+Príncipe-negro,A08,Aratinga nenday,Aratinga,Psittacidae,Psittaciformes,Aves,nativa,LC
+Anacã,A01,Deroptyus accipitrinus,Deroptyus,Psittacidae,Psittaciformes,Aves,nativa,LC
+Maracanã-pequena,A08,Diopsittaca nobilis,Diopsittaca,Psittacidae,Psittaciformes,Aves,nativa,LC
+Periquito-rei,A08,Eupsittula aurea,Eupsittula,Psittacidae,Psittaciformes,Aves,nativa,LC
+Caturrita,A08,Myiopsitta monachus,Myiopsitta,Psittacidae,Psittaciformes,Aves,nativa,LC
+Maitaca-verde,A08,Pionus maximiliani,Pionus,Psittacidae,Psittaciformes,Aves,nativa,LC
+Maitaca-de-cabeça-azul,A01,Pionus menstruus menstruus,Pionus,Psittacidae,Psittaciformes,Aves,nativa,LC
+Maracanã-verdadeira,A08,Primolius maracana,Primolius,Psittacidae,Psittaciformes,Aves,nativa,NT
+Periquitão-maracanã,A08,Psittacara leucophthalmus,Psittacara,Psittacidae,Psittaciformes,Aves,nativa,LC
+Papagaio-do-congo,A11,Psittacus erithacus,Psittacus,Psittacidae,Psittaciformes,Aves,exótica,EN
+Tiriba-de-testa-vermelha,A08,Pyrrhura frontalis,Pyrrhura,Psittacidae,Psittaciformes,Aves,nativa,LC
+Periquito-cara-suja,A08,Pyrrhura griseipectus,Pyrrhura,Psittacidae,Psittaciformes,Aves,nativa,EN
+Coruja-orelhuda,A11,Asio clamator,Asio,Strigidae,Strigiformes,Aves,nativa,LC
+Coruja-buraqueira,A01,Athene cunicularia,Athene,Strigidae,Strigiformes,Aves,nativa,LC
+Corujinha-do-mato,A01,Megascops choliba,Megascops,Strigidae,Strigiformes,Aves,nativa,LC
+Murucututu,A11,Pulsatrix perspicillata,Pulsatrix,Strigidae,Strigiformes,Aves,nativa,VU
+Suindara,A11,Tyto furcata,Tyto,Tytonidae,Strigiformes,Aves,nativa,LC
+Inhambuguaçu,A02,Crypturellus obsoletus,Crypturellus,Tinamidae,Tinamiformes,Aves,nativa,LC
+Perdiz,A02,Rhynchotus rufescens,Rhynchotus,Tinamidae,Tinamiformes,Aves,nativa,LC
+Macuco,A02,Tinamus solitarius,Tinamus,Tinamidae,Tinamiformes,Aves,nativa,NT
+Jacaré-do-papo-amarelo,A05,Caiman latirostris,Caiman,Alligatoridae,Crocodylia,Reptilia,nativa,LC
+Jiboia,A05,Boa constrictor,Boa,Boidae,Squamata,Reptilia,nativa,LC
+Sucuri-verde,A05,Eunectes murinus,Eunectes,Boidae,Squamata,Reptilia,nativa,LC
+Iguana,A05,Iguana iguana,Iguana,Iguanidae,Squamata,Reptilia,nativa,LC
+Tigre-d'água,A05,Trachemys dorbigni,Trachemys,Emydidae,Testudinata,Reptilia,nativa,LC
+Jabuti-piranga,A05,Chelonoidis carbonarius,Chelonoidis,Testudinidae,Testudinata,Reptilia,nativa,LC
+Jabuti-chileno,A02,Chelonoidis chilensis,Chelonoidis,Testudinidae,Testudinata,Reptilia,nativa,LC
+Jabuti-tinga,A02,Chelonoidis denticulatus,Chelonoidis,Testudinidae,Testudinata,Reptilia,nativa,LC
