@@ -5,7 +5,8 @@ CREATE TABLE especies_colecao (
 	id_especie serial PRIMARY KEY,                     -- Identificação do animal (FICTÍCIA)
 	nome_comum varchar(50),                            -- Nome comum
 	id_setor varchar(3),	                           -- Identificação do setor
-	especie varchar(50),                               -- Nome científico
+	especie varchar(50),                               -- Nome científico 
+	genero varchar(20),                                -- Gênero 
 	familia varchar(30),                               -- Família
 	ordem varchar(30),                                 -- Ordem 
 	classe varchar(30),                                -- Classe 
@@ -45,4 +46,4 @@ CREATE TABLE individuos (
 );
 
 -- NOTAS:
--- Tabelas para criar: Funcionários, Remédios, Alimentos, 
+-- Outras possíveis tabelas para essa base de dados: Funcionários, Remédios, Dieta, Salário

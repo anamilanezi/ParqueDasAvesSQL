@@ -3,7 +3,8 @@
 COPY especies_colecao (
 	nome_comum, 
 	id_setor, 
-	especie, 
+	especie,
+	genero, 
 	familia, 
 	ordem, 
 	classe, 
